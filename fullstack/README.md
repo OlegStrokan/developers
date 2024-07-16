@@ -13,6 +13,8 @@ I also wrote some tests, but I only tested mappers and some use cases (but not a
 
 I can’t say much about the frontend - I made a table using tailwind but didn’t have time to test it and write some e2e tests - moustly i used cypress but now it's playwright). I tried to make the frontend "stupid" so that there was less code, there are only calls of our graphql query
 
+NOTE: i edited more file than needed because i tried to make some changes on my friend's  laptop and it was a hell
+
 Perhaps the code I wrote will not be enough for you. I have a github where there are a couple of projects. If you didn’t like something, then I would like to go to another short interview where you would ask me specific questions about your tasks and technologies.
 
 I really liked the way you conducted the interview, there were only relevant questions without stupid leetcode tasks, and I often understand the atmosphere in a company by how the interview goes, but I also understand it's my mistake that i didn't prepare another laptop to continue the task
