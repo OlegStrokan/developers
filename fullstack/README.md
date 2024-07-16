@@ -1,6 +1,6 @@
 ## Fullstack Developer
 
-Hi Aleksey.
+Hi Alex.
 I'm having problems with a test assignment. Everything was clear to me and I knew that I would do it.
 
 The problem is that I did this task on my laptop, but didn’t have time to finish it because I had a flight. My plan was to connect to my laptop (I leaved in home becuase trackpad doesn't work and i have problem with brightness - honestly no brightess on laptop) as a virtual machine upon arrival using a friend’s laptop. But it didn't work, the FPS was less than one per minute. To install programming environments on my friend’s laptop, I need to spend 2 days, because this is not a laptop for programming. I want you to understand my situation and below I wrote what I did and what I would like to do if I had the opportunity.
